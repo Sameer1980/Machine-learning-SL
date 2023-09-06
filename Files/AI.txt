@@ -1,0 +1,171 @@
+https://drive.google.com/drive/folders/1tZ_fzMDypu0YjiXmfHVyEH3mbenRwRtq?usp=sharing
+
+
+Reference book by U Dinesh Kumar
+
+h20.ai --- AI analytics website
+
+knime analytics --------- AI analytics website
+
+
+python -m pip install pandas-profiling (From Anacondas cmd)
+
+import pandas as pd
+pd.show_versions()
+
+
+
+https://drive.google.com/drive/folders/1tZ_fzMDypu0YjiXmfHVyEH3mbenRwRtq?usp=sharing
+
+
+https://www.hackerrank.com/domains/python
+
+
+https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/
+
+
+
+https://drive.google.com/drive/folders/1FLxK2i8Qjqr30-ffOubExiQ4W2dmuGtl
+
+
+Khan Academy ----> for statistics
+
+
+https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html
+
+
+https://community.simplilearn.com/-communitylink
+
+https://drive.google.com/drive/folders/1tZ_fzMDypu0YjiXmfHVyEH3mbenRwRtq
+
+https://community.simplilearn.com/
+
+t statistics , vif.
+
+
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+
+
+https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/
+
+https://mlflow.org/
+
+
+https://www.youtube.com/watch?v=ZqCoFp3-rGc&feature=emb_logo
+
+https://www.knime.com/knime-analytics-platform
+
+https://mlflow.org/docs/latest/python_api/index.html
+
+
+https://community.simplilearn.com/threads/trainer-deepak-kumar-data-science-with-python-jan-16-17-23-24-30-31-feb-6-7-13-14-20.64438/
+
+community link
+
+https://drive.google.com/drive/folders/1_TjBwuKQHSNunaojI3UTeBmmRm8TgHFb?usp=sharing
+
+z-lib.org
+
+https://b-ok.cc/book/5342864/6d40c5
+
+https://b-ok.cc/book/5342864/6d40c5 
+
+https://community.cloud.databricks.com/login.html -- PW:- Db@12345
+
+
+https://community.cloud.databricks.com/?o=8974301114057873#notebook/1811760609718149/command/1811760609718150
+
+I am not able to login to datababricks platform though I have created ac and cluster.
+
+https://covid19.karnataka.gov.in/covid-dashboard/dashboard.html
+
+
+https://sbi.co.in/web/interest-rates/deposit-rates/retail-domestic-term-deposits
+
+
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html
+
+https://www.geeksforgeeks.org/xgboost-for-regression/#:~:text=XGBoost%20is%20a%20powerful%20approach%20for%20building%20supervised%20regression%20models.&text=Ensemble%20learning%20involves%20training%20and,of%20the%20ensemble%20learning%20methods.
+
+
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html#sklearn.linear_model.SGDRegressor
+
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+
+from Deepak Kumar Behera to All Participants:
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8974301114057873/3416983438416633/5306562560712699/latest.html
+
+https://docs.python.org/3/library/uuid.html
+
+https://dask.org/
+
+https://prezi.com/p/u0e4scenerln/retail/
+
+https://databricks.com/resources
+
+https://databricks.com/dataaisummit
+
+
+Projects:
+https://databricks.com/solutions/industries
+
+
+
+https://spark.apache.org/docs/latest/ml-statistics.html
+
+https://spark.apache.org/docs/latest/ml-guide.html
+
+https://spark.apache.org/docs/latest/ml-classification-regression.html#classification
+
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html
+
+https://towardsdatascience.com/isolation-forest-is-the-best-anomaly-detection-algorithm-for-big-data-right-now-e1a18ec0f94f
+
+https://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e
+
+https://alkaline-ml.com/pmdarima/0.9.0/modules/generated/pyramid.arima.auto_arima.html
+
+
+https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/
+
+https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html
+
+https://cloud.google.com/solutions/machine-learning/categorizing-audio-files-using-ml
+
+Good knowledge of Python, Pandas , Numpy and data visualization with Matplotlib & Seaborn libraries.
+Good knowledge of spinning Spark clusters and data wrangling on homogenous data sources including excel and web pages with Pyspark.
+
+
+
+
+
+Responsibilities:
+
+Developing Spark scripts as per client requirements
+Implementing pre-defined operators such as reduceByKey and CombineByKey in Spark
+Developing Spark applications using multiple programming languages such as Python and Scala
+Processing XML data with Scala libraries
+Carrying out real-time in-depth data analytics using Spark Streaming
+Converting SQL queries, MapReduce programs into Spark transformations
+Developing Scala coded Spark projects
+Using Spark for streaming data processing
+Using Oozie for workflow management
+Carrying out multiple types of testing
+Developing Spark jobs to parse JSON data
+Importing data from multiple sources such as AWS S3 into Spark RDD
+Hands-on experience working with Amazon Web Services like S3 and EC2
+Extracting features from data sets using Spark SQL
+Using Avro and other data formats to store in HDFS
+Coordinating with multiple teams spread across the country and the globe.
+
+
+Developing MapReduce jobs using JAVA
+Running Hadoop streaming jobs
+Implementing partitioning buckets in HIVE
+Debugging and resolving issues found by the QA team
+Evaluating Hadoop cluster
+Writing HIVE queries
+Loading structured and unstructured data
+HDFS maintenance
