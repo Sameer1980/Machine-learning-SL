@@ -1,0 +1,12 @@
+Process,Model Name,F1 Scores,Range of F1 Scores,Std Deviation of F1 Scores
+Bag Of Words with NLTK Stemming,Binomial Naive Bayes Classifier,"[0.92, 0.98, 0.99, 0.99, 1.0]",0.92-1.0,0.03209361307176241
+Bag Of Words with NLTK Stemming,Binomial Naive Bayes Classifier,"[0.92, 0.98, 0.99, 0.99, 1.0]",0.92-1.0,0.03209361307176241
+Bag Of Words with NLTK Stemming,Logistic Regression,"[0.95, 0.99, 0.99, 1.0, 1.0]",0.95-1.0,0.02073644135332774
+Bag Of Words with NLTK Stemming,Decission Tree,"[0.92, 0.98, 0.98, 0.99, 1.0]",0.92-1.0,0.031304951684997036
+Bag Of Words with NLTK Stemming,Random Forest,"[0.94, 0.99, 0.99, 1.0, 1.0]",0.94-1.0,0.025099800796022288
+Bag Of Words with NLTK Stemming,XG Boost,"[0.95, 0.98, 0.99, 0.99, 1.0]",0.95-1.0,0.01923538406167136
+Bag Of Words with NLTK Stemming,Stochastic Gradient Descent,"[0.96, 0.98, 0.99, 0.99, 1.0]",0.96-1.0,0.015165750888103114
+Bag Of Words with NLTK Stemming,Gausian Process,"[0.94, 0.99, 0.99, 1.0, 1.0]",0.94-1.0,0.02509980079602229
+Bag Of Words with NLTK Stemming,K Nearst Neighbour,"[0.92, 0.97, 0.99, 0.99, 1.0]",0.92-1.0,0.03209361307176241
+Bag Of Words with NLTK Stemming,Linear Discriminant Analysis,"[0.98, 0.99, 0.99, 0.99, 1.0]",0.98-1.0,0.007071067811865481
+Bag Of Words with NLTK Stemming,Support Vector Machine,"[0.95, 0.97, 0.98, 0.99, 1.0]",0.95-1.0,0.019235384061671364
